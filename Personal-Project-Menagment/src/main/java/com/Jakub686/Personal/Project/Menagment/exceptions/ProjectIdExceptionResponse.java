@@ -1,5 +1,6 @@
 package com.Jakub686.Personal.Project.Menagment.exceptions;
 
+
 public class ProjectIdExceptionResponse {
 
     private String projectIdentifier;
